@@ -38,11 +38,6 @@ subtitle = ""
     name = "MatLab"
     description = "80%"
 
-[[feature]]
-        icon = "fsl"
-        icon_pack = "custom"
-        name = "FSL"
-        description = "80%"
 
 # Uncomment to use emoji icons.
 # [[feature]]

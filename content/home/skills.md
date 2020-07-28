@@ -39,9 +39,9 @@ subtitle = ""
     description = "80%"
 
 [[feature]]
-        icon = "FSL"
+        icon = "fsl"
         icon_pack = "custom"
-        name = "fsl"
+        name = "FSL"
         description = "80%"
 
 # Uncomment to use emoji icons.

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
-subtitle = "Few of my online certifications related to Programming and Machine Learning"
+subtitle = "Few of my online certifications related to Neuroimaging, Programming and Machine Learning"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -77,7 +77,44 @@ date_format = "Jan 2006"
           date_end = ""
           description = ""
 
+          [[item]]
+              organization = "Coursera"
+              organization_url = "https://www.coursera.org"
+              title = "FPrinciples of fMRI 1"
+              url = ""
+              certificate_url = "https://www.coursera.org/account/accomplishments/certificate/D2P6XD2VCYCA"
+              date_start = "2020-03-01"
+              date_end = ""
+              description = ""
 
+          [[item]]
+              organization = "Coursera"
+              organization_url = "https://www.coursera.org"
+              title = "Principles of fMRI 2"
+              url = ""
+              certificate_url = "https://www.coursera.org/account/accomplishments/certificate/CGMY7DHTTCLB"
+              date_start = "2020-06-01"
+              date_end = ""
+              description = ""
 
+              [[item]]
+                  organization = "Coursera"
+                  organization_url = "https://www.coursera.org"
+                  title = "Introduction to Neurohacking In R"
+                  url = ""
+                  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/DH4C9T7BJZJD"
+                  date_start = "2020-07-01"
+                  date_end = ""
+                  description = ""
+
+                  [[item]]
+                      organization = "Coursera"
+                      organization_url = "https://www.coursera.org"
+                      title = "Fundamental Neuroscience for Neuroimaging"
+                      url = ""
+                      certificate_url = "https://www.coursera.org/account/accomplishments/certificate/CYB678BGGYQX"
+                      date_start = "2020-06-01"
+                      date_end = ""
+                      description = ""
 
 +++

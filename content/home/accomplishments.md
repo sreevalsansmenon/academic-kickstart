@@ -26,6 +26,7 @@ date_format = "Jan 2006"
     date_start = "2020-02-01"
     date_end = ""
     description = ""
+    weight = 560
 
 [[item]]
   organization = "Coursera"
@@ -36,6 +37,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = ""
   description = ""
+  weight = 570
 
   [[item]]
     organization = "Coursera"
@@ -46,6 +48,7 @@ date_format = "Jan 2006"
     date_start = "2020-04-01"
     date_end = ""
     description = ""
+    weight = 585
 
   [[item]]
     organization = "Coursera"
@@ -56,6 +59,7 @@ date_format = "Jan 2006"
     date_start = "2020-02-01"
     date_end = ""
     description = ""
+    weight = 10
 
     [[item]]
       organization = "Coursera"
@@ -66,6 +70,7 @@ date_format = "Jan 2006"
       date_start = "2020-04-01"
       date_end = ""
       description = ""
+      weight =580
 
       [[item]]
           organization = "Coursera"
@@ -76,16 +81,18 @@ date_format = "Jan 2006"
           date_start = "2020-03-01"
           date_end = ""
           description = ""
+          weight = 10
 
           [[item]]
               organization = "Coursera"
               organization_url = "https://www.coursera.org"
-              title = "FPrinciples of fMRI 1"
+              title = "Principles of fMRI 1"
               url = ""
               certificate_url = "https://www.coursera.org/account/accomplishments/certificate/D2P6XD2VCYCA"
               date_start = "2020-03-01"
               date_end = ""
               description = ""
+              weight = 610
 
           [[item]]
               organization = "Coursera"
@@ -96,6 +103,7 @@ date_format = "Jan 2006"
               date_start = "2020-06-01"
               date_end = ""
               description = ""
+              weight = 600
 
               [[item]]
                   organization = "Coursera"
@@ -106,6 +114,7 @@ date_format = "Jan 2006"
                   date_start = "2020-07-01"
                   date_end = ""
                   description = ""
+                  weight = 10
 
                   [[item]]
                       organization = "Coursera"
@@ -116,5 +125,6 @@ date_format = "Jan 2006"
                       date_start = "2020-06-01"
                       date_end = ""
                       description = ""
+                      weight = 500
 
 +++

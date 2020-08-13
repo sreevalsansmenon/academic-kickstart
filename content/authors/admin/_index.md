@@ -70,4 +70,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. student in Mechanical Engineering at Missouri University of Science and Technology, working with [K. Krishnamurthy](https://mae.mst.edu/facultyandstaff/facultykrishnamurthy/). The broad goal of my research is to develop methods for identifying the individual intrinsic connectivity patterns of the brain in health and disease. I am working with the magnetic resonance image to achieve my research goals. I am also making use of new machine learning techniques to build behavioral prediction and some classification models.
+I am a Ph.D. student in Mechanical Engineering at Missouri University of Science and Technology, working with [Dr. K. Krishnamurthy](https://mae.mst.edu/facultyandstaff/facultykrishnamurthy/). The broad goal of my research is to develop methods for identifying the individual intrinsic connectivity patterns of the brain in health and disease. I am working with the magnetic resonance image to achieve my research goals. I am also making use of new machine learning techniques to build behavioral prediction and some classification models.

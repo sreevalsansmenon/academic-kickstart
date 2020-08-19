@@ -108,10 +108,10 @@ date_format = "Jan 2006"
               [[item]]
                   organization = "Coursera"
                   organization_url = "https://www.coursera.org"
-                  title = "Introduction to Neurohacking In R"
+                  title = "Data Science: Foundations using R Specialization"
                   url = ""
-                  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/DH4C9T7BJZJD"
-                  date_start = "2020-07-01"
+                  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/U3T8QV5RSJWF"
+                  date_start = "2020-08-01"
                   date_end = ""
                   description = ""
                   weight = 10

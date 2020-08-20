@@ -26,7 +26,7 @@ date_format = "Jan 2006"
     date_start = "2020-02-01"
     date_end = ""
     description = ""
-    weight = 560
+
 
 [[item]]
   organization = "Coursera"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = ""
   description = ""
-  weight = 570
+
 
   [[item]]
     organization = "Coursera"
@@ -48,9 +48,9 @@ date_format = "Jan 2006"
     date_start = "2020-01-01"
     date_end = ""
     description = ""
-    weight = 585
 
-  [[item]]
+
+[[item]]
     organization = "Coursera"
     organization_url = "https://www.coursera.org"
     title = "Python for Everybody"
@@ -59,9 +59,9 @@ date_format = "Jan 2006"
     date_start = "2020-02-01"
     date_end = ""
     description = ""
-    weight = 10
 
-    [[item]]
+
+[[item]]
       organization = "Coursera"
       organization_url = "https://www.coursera.org"
       title = "Mathematics for Machine Learning"
@@ -70,9 +70,9 @@ date_format = "Jan 2006"
       date_start = "2020-04-01"
       date_end = ""
       description = ""
-      weight =580
 
-      [[item]]
+
+[[item]]
           organization = "Coursera"
           organization_url = "https://www.coursera.org"
           title = "Introduction to Neurohacking In R"
@@ -81,9 +81,8 @@ date_format = "Jan 2006"
           date_start = "2020-07-01"
           date_end = ""
           description = ""
-          weight = 10
 
-          [[item]]
+[[item]]
               organization = "Coursera"
               organization_url = "https://www.coursera.org"
               title = "Principles of fMRI 1"
@@ -92,9 +91,9 @@ date_format = "Jan 2006"
               date_start = "2020-03-01"
               date_end = ""
               description = ""
-              weight = 610
 
-          [[item]]
+
+[[item]]
               organization = "Coursera"
               organization_url = "https://www.coursera.org"
               title = "Principles of fMRI 2"
@@ -103,9 +102,9 @@ date_format = "Jan 2006"
               date_start = "2020-06-01"
               date_end = ""
               description = ""
-              weight = 600
 
-              [[item]]
+
+[[item]]
                   organization = "Coursera"
                   organization_url = "https://www.coursera.org"
                   title = "Data Science: Foundations using R Specialization"
@@ -114,9 +113,8 @@ date_format = "Jan 2006"
                   date_start = "2020-08-01"
                   date_end = ""
                   description = ""
-                  weight = 10
 
-                  [[item]]
+[[item]]
                       organization = "Coursera"
                       organization_url = "https://www.coursera.org"
                       title = "Fundamental Neuroscience for Neuroimaging"
@@ -125,6 +123,6 @@ date_format = "Jan 2006"
                       date_start = "2020-06-01"
                       date_end = ""
                       description = ""
-                      weight = 500
+
 
 +++

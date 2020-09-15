@@ -20,6 +20,16 @@ date_format = "Jan 2006"
 [[item]]
     organization = "Coursera"
     organization_url = "https://www.coursera.org"
+    title = "Excel Skills for Business Specialization"
+    url = ""
+    certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/FS3RH3B2KHUL"
+    date_start = "2020-09-01"
+    date_end = ""
+    description = ""
+
+[[item]]
+    organization = "Coursera"
+    organization_url = "https://www.coursera.org"
     title = "Machine Learning"
     url = ""
     certificate_url = "https://www.coursera.org/account/accomplishments/certificate/YWKHEUNJ9W3Y"

@@ -21,16 +21,17 @@ organizations:
 bio: My research interests include neuroimaging, machine learning and cognitive neuroscience.
 
 interests:
-- Cognitive Neuroscience
-- Neuro Imaging
+- Neuroscience
+- Neuroimaging
 - Machine learning
 - Artificial Intelligence
+- Nonlinear Control
 
 education:
   courses:
   - course: PhD in Mechanical Engineering
     institution: Missouri University of Science and Technology
-    year: 2017 - 2021
+    year: 2017 - 2021 (Expected)
   - course: Master of Technology in Computer Integrated Manufacturing
     institution: University of Calicut
     year: 2014 - 2016
@@ -70,4 +71,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. student in Mechanical Engineering at Missouri University of Science and Technology, working with [Dr. K. Krishnamurthy](https://mae.mst.edu/facultyandstaff/facultykrishnamurthy/). The broad goal of my research is to develop methods for identifying the individual intrinsic connectivity patterns of the brain in health and disease. I am working with the magnetic resonance image to achieve my research goals. I am also making use of new machine learning techniques to build behavioral prediction and some classification models.
+I am a Ph.D. student in Mechanical Engineering at Missouri University of Science and Technology, working with [Dr. K. Krishnamurthy](https://mae.mst.edu/facultyandstaff/facultykrishnamurthy/). The broad goal of my research is to develop methods for identifying the individual intrinsic connectivity patterns of the brain in health and disease. I am working with the magnetic resonance image to achieve my research goals. I am also making use of novel machine learning techniques to build behavioral prediction and some classification models.

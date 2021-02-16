@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Rolla, MO"
   date_start = "2018-08-01"
   date_end = ""
-  description = """Taught mechatronics and control systems lab."""
+  description = """Instructor for controls systems laboratoy and mechatronics. Controls systems laboratoy course is an introduction to the basics of Labview and PLC control for senior undergraduates. Mechatronics course is introduction to the basics of mechatronics (i.e., the integration of mechanical, electrical, computer, and control systems) for graduates and undergraduates."""
 
   [[experience]]
     title = "Graduate Research Assistant"
@@ -48,6 +48,6 @@ date_format = "Jan 2006"
     location = "Kerala, India"
     date_start = "2016-01-01"
     date_end = "2016-06-01"
-    description = """Worked for Department of Space, Government of India."""
+    description = """Worked for Department of Space, Government of India. Robotic machining - ABB robot was used to achieve the goal of microabrasive jet machining for surface integrity improvement of electric discharge machined micro components."""
 
 +++
